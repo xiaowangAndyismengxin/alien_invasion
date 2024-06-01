@@ -1,0 +1,21 @@
+{
+"resolution": [800, 600],
+"full_resolution": [1920, 1080],
+"bg_color": [30, 30, 30],
+"game_fps": 60,
+"ship_limit": 3,
+"when_ship_hit": [233, 5, 5],
+"bullet": {
+  "speed": 15,
+  "size":[7, 15],
+  "color": [255, 255, 255],
+  "time": 5
+},
+"stars_alwd": 10,
+"alien_speed": 0.65,
+"alien_points": 50,
+"alien_points_speedup": 1.5,
+
+"speedup_scale": 1.1,
+"speedup_aliens": 50
+}
